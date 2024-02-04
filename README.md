@@ -13,8 +13,7 @@ This project focuses on implementing real-time sign language detection using Ten
 
 - Python 3.x
 - TensorFlow
-- OpenCV
-- [Additional libraries]
+- OpenCv 
 
 ## Installation
 
